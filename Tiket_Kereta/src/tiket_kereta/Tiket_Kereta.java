@@ -17,10 +17,11 @@ public class Tiket_Kereta {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        Kereta k = new Kereta("Zoela",100,10);
+                Kereta k = new Kereta("Zoela",100,10);
 		Tiket t = new Tiket("1301142403",14,"Business");
 		Rute r = new Rute("Jakarta","Bandung");
 		
+                
 		System.out.println("Daftar Kereta : ");
 		System.out.println("Nama Kereta : "+k.getNama());
 		System.out.println("Penumpang : "+k.getPenumpang());
