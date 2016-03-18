@@ -17,7 +17,7 @@ public class Gerbong {
 	public int getNomor(){
 		return nomorGerbong;
 	}
-	
+	j
 	public int getMaxGerbong(){
 		return maxGerbong;
 	}
