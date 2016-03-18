@@ -15,6 +15,7 @@ public class Tiket_Kereta {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+                
                 Kereta k = new Kereta("Zoela",100,10);
 		Tiket t = new Tiket("1301142403",14,"Business");
 		Rute r = new Rute("Jakarta","Bandung");
